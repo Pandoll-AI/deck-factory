@@ -15,3 +15,7 @@ videos/final/
 videos/assets/bgm/
 *.pdf
 docs/media/*.wav
+
+# Local AI assistant directories
+.claude/
+.codex/
